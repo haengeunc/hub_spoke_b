@@ -6,7 +6,7 @@ label: "Hub & Spoke Customer B"
 
 explore: +order_items {
 
-  # hidden: yes
+  hidden: no
   label: "Sales Data - B"
   description: "Customer B only has the standard model"
 
