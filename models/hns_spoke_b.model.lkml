@@ -15,3 +15,6 @@ explore: +order_items {
     sql_on: ${order_items.order_id} = ${orders.order_id};;
   }
 }
+
+
+#
